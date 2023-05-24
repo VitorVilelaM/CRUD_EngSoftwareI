@@ -1,0 +1,24 @@
+{
+  "name": "crud_engsoftwarei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fastify": "^4.17.0",
+    "mysql": "^2.18.1",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/mysql": "^2.15.21",
+    "@types/node": "^20.2.3",
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  }
+}
