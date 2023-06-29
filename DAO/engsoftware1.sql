@@ -3,8 +3,8 @@ create database engsoftware1;
 
 USE engsoftware1;
 
-CREATE TABLE categoria(
-    ID int,
+CREATE TABLE produto(
+    ID int AUTO_INCREMENT PRIMARY KEY,
     Price int,
     Estoque int,
     Nome varchar(50),
