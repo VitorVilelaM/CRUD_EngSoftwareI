@@ -10,3 +10,9 @@ CREATE TABLE produto(
     Nome varchar(50),
     Vendedor varchar(50),
 );
+
+CREATE TABLE usuario(
+    CPF int,
+    Nome varchar(50),
+    Endereco varchar(50),
+);
